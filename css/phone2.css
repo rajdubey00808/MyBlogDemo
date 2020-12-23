@@ -1,0 +1,13 @@
+.mediaq{
+        
+    left:2rem !important;
+    bottom:1.2rem !important;
+    border-radius:0 !important;
+
+}
+.site-content .sidebar .popular-post .post-info{
+    display: none;
+}
+footer.footer .container2{
+    grid-template-columns: repeat(2,1fr);
+}

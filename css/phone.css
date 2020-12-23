@@ -1,0 +1,18 @@
+.nav .nav-menu, .nav .nav-items{
+    flex-direction: column;
+}
+.nav .toggle-collapse{
+    display: initial;
+}
+main .site-content{
+    grid-template-columns: 100%;
+}
+.container2{
+    grid-template-columns: repeat(1, 1fr) !important;
+}
+.rights{
+    font-size: 12px;
+}
+.toggle-collapse{
+    width: 94% !important;
+}

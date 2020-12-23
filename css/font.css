@@ -1,0 +1,25 @@
+@font-face{
+    font-family: abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+    
+}
+@font-face{
+    font-family: anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf);
+
+}
+@font-face{
+    font-family: josefin;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf);
+
+}
+@font-face{
+    font-family: livvic;
+    src: url(../fonts/Livvic/);
+
+}
+@font-face{
+    font-family: lexend;
+    src: url(../fonts/Lexend_Deca/);
+
+}
